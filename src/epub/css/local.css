@@ -55,3 +55,15 @@ footer{
 	margin-top: 1em;
 }
 /* End verse */
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
+[epub|type~="epigraph"]{
+	font-variant: normal;
+	hyphens: none;
+	-epub-hyphens: none;
+}
