@@ -62,14 +62,18 @@ header{
 	-epub-hyphens: none;
 }
 
-#chapter-4-4 blockquote{
+#chapter-4-4 blockquote:first-of-type{
 	text-align: right;
 }
 
-#chapter-4-4 blockquote p:first-child{
+#chapter-4-4 blockquote:first-of-type p:first-child{
 	padding-right: 5em;
 }
 
 #chapter-4-4 [epub|type~="z3998:signature"]{
 	font-style: normal;
+}
+
+#chapter-4-4 blockquote:last-of-type{
+	text-align: center;
 }
