@@ -34,44 +34,47 @@
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The epileptic Prince Muishkin becomes entangled in Russian high society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Acclaimed by the 20th-century Russian critic Mikhail Bakhtin for its “polyphony” (a literary concept introduced by Bakhtin to describe a plurality of valid voices within a narrative), &lt;i&gt;The Idiot&lt;/i&gt; is regarded by modern critics as one of &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Fyodor Dostoevsky’s&lt;/a&gt; most experimental and artistically uneven novels. The novel follows the entrance of the epileptic Prince Muishkin—a character Dostoevsky meant to represent a “positively good and beautiful man”—into a circle of Russian high society characterized by vanity, greed, and social ambition. Thanks to his epileptic condition and his simplicity, earnestness, and kindness of heart, Muishkin is frequently branded by his newfound social circle as the titular “idiot,” but in reality is a man of extraordinary sensitivity and insight. His arrival in society sets off a series of dramatic events and interpersonal strife centered around himself and his distant relations from the Epanchin family.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Idiot&lt;/i&gt; drew upon many of Dostoevsky’s significant personal experiences, such as his Russian Orthodox faith, his experience nearly being executed in 1849, and his own struggle with epilepsy, all of which inform his depiction of Prince Muishkin’s distinctive psychology.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2638</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/012256782</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Idiot</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_the-idiot_eva-m-martin</meta>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
 		<meta property="file-as" refines="#author">Dostoevsky, Fyodor</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="alternate-script" refines="#author" xml:lang="ru">Фёдор Миха́йлович Достое́вский</meta>
+		<meta property="se:name.person.full-name" refines="#author">Fyodor Mikhailovich Dostoevsky</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fyodor_Dostoevsky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79029930</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Eva M. Martin</dc:contributor>
 		<meta property="file-as" refines="#translator">Martin, Eva M.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator">Eva Margaret Martin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2015170436</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Johan Heinrich Neuman</dc:contributor>
+		<meta property="file-as" refines="#artist">Neuman, Johan Heinrich</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Martin Adamson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Adamson, Martin</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Andrew Sly</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Sly, Andrew</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
