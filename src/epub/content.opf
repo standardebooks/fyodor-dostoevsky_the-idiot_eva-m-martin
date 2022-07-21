@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fyodor-dostoevsky/the-idiot/eva-m-martin</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-07-21T18:50:15Z</dc:date>
+		<meta property="dcterms:modified">2022-07-21T18:50:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,16 +35,17 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The epileptic Prince Muishkin becomes entangled in Russian high society.</dc:description>
+		<dc:description id="description">An epileptic prince becomes entangled in Russian high society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Acclaimed by the 20th-century Russian critic Mikhail Bakhtin for its “polyphony” (a literary concept introduced by Bakhtin to describe a plurality of valid voices within a narrative), &lt;i&gt;The Idiot&lt;/i&gt; is regarded by modern critics as one of &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Fyodor Dostoevsky’s&lt;/a&gt; most experimental and artistically uneven novels. The novel follows the entrance of the epileptic Prince Muishkin—a character Dostoevsky meant to represent a “positively good and beautiful man”—into a circle of Russian high society characterized by vanity, greed, and social ambition. Thanks to his epileptic condition and his simplicity, earnestness, and kindness of heart, Muishkin is frequently branded by his newfound social circle as the titular “idiot,” but in reality is a man of extraordinary sensitivity and insight. His arrival in society sets off a series of dramatic events and interpersonal strife centered around himself and his distant relations from the Epanchin family.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Idiot&lt;/i&gt; drew upon many of Dostoevsky’s significant personal experiences, such as his Russian Orthodox faith, his experience nearly being executed in 1849, and his own struggle with epilepsy, all of which inform his depiction of Prince Muishkin’s distinctive psychology.&lt;/p&gt;
+			&lt;p&gt;Acclaimed by the 20th-century Russian critic Mikhail Bakhtin for its “polyphony” (a literary concept introduced by Bakhtin to describe a plurality of voices within a narrative), &lt;i&gt;The Idiot&lt;/i&gt; is regarded by modern critics as one of &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky’s&lt;/a&gt; most experimental and artistically uneven novels.&lt;/p&gt;
+			&lt;p&gt;The novel follows the entrance of the epileptic Prince Muishkin—a character Dostoevsky meant to represent a “positively good and beautiful man”—into a circle of Russian high society characterized by vanity, greed, and social ambition. Thanks to his epileptic condition and his simplicity, earnestness, and kindness of heart, Muishkin is frequently branded by his newfound social circle as the titular “idiot”; but in reality, he’s a man of extraordinary sensitivity and insight. His arrival in society sets off a series of dramatic events and interpersonal strife centered around himself and his distant relations.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Idiot&lt;/i&gt; drew upon many of Dostoevsky’s significant personal experiences, such as his Russian Orthodox faith, his experience of nearly being executed in 1849, and his own struggle with epilepsy, all of which inform his depiction of Prince Muishkin’s distinctive psychology.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2638</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012256782</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">246975</meta>
+		<meta property="se:reading-ease.flesch">72.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Idiot</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_the-idiot_eva-m-martin</meta>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
@@ -81,6 +82,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
