@@ -44,7 +44,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2638</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012256782</dc:source>
-		<meta property="se:word-count">246975</meta>
+		<meta property="se:word-count">246976</meta>
 		<meta property="se:reading-ease.flesch">72.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Idiot</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_the-idiot_eva-m-martin</meta>
