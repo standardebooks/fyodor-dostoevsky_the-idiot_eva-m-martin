@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/fyodor-dostoevsky/the-idiot/eva-m-martin</dc:identifier>
 		<dc:date>2022-07-21T18:50:15Z</dc:date>
@@ -37,12 +37,12 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">An epileptic prince becomes entangled in Russian high society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An epileptic prince becomes entangled in Russian high society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Acclaimed by the 20th-century Russian critic Mikhail Bakhtin for its “polyphony” (a literary concept introduced by Bakhtin to describe a plurality of voices within a narrative), &lt;i&gt;The Idiot&lt;/i&gt; is regarded by modern critics as one of &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky’s&lt;/a&gt; most experimental and artistically uneven novels.&lt;/p&gt;
 			&lt;p&gt;The novel follows the entrance of the epileptic Prince Muishkin—a character Dostoevsky meant to represent a “positively good and beautiful man”—into a circle of Russian high society characterized by vanity, greed, and social ambition. Thanks to his epileptic condition and his simplicity, earnestness, and kindness of heart, Muishkin is frequently branded by his newfound social circle as the titular “idiot”; but in reality, he’s a man of extraordinary sensitivity and insight. His arrival in society sets off a series of dramatic events and interpersonal strife centered around himself and his distant relations.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Idiot&lt;/i&gt; drew upon many of Dostoevsky’s significant personal experiences, such as his Russian Orthodox faith, his experience of nearly being executed in 1849, and his own struggle with epilepsy, all of which inform his depiction of Prince Muishkin’s distinctive psychology.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2638</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012256782</dc:source>
