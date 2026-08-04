@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>An epileptic prince becomes entangled in Russian high society.</dc:abstract>
+		<meta property="schema:abstract">An epileptic prince becomes entangled in Russian high society.</meta>
 		<dc:description>
 			&lt;p&gt;Acclaimed by the 20th-century Russian critic Mikhail Bakhtin for its “polyphony” (a literary concept introduced by Bakhtin to describe a plurality of voices within a narrative), &lt;i&gt;The Idiot&lt;/i&gt; is regarded by modern critics as one of &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky’s&lt;/a&gt; most experimental and artistically uneven novels.&lt;/p&gt;
 			&lt;p&gt;The novel follows the entrance of the epileptic Prince Muishkin—a character Dostoevsky meant to represent a “positively good and beautiful man”—into a circle of Russian high society characterized by vanity, greed, and social ambition. Thanks to his epileptic condition and his simplicity, earnestness, and kindness of heart, Muishkin is frequently branded by his newfound social circle as the titular “idiot”; but in reality, he’s a man of extraordinary sensitivity and insight. His arrival in society sets off a series of dramatic events and interpersonal strife centered around himself and his distant relations.&lt;/p&gt;
