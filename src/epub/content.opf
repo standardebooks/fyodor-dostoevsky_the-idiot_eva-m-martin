@@ -31,7 +31,7 @@
 		<dc:title id="title">The Idiot</dc:title>
 		<meta property="file-as" refines="#title">Idiot, The</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<dc:subject id="subject-2">Russia -- Social conditions -- 1801-1917 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Russia--Social conditions--1801-1917--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
