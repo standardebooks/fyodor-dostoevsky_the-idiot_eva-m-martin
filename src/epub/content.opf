@@ -54,7 +54,7 @@
 		<link href="https://github.com/standardebooks/fyodor-dostoevsky_the-idiot_eva-m-martin" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
 		<meta property="file-as" refines="#author">Dostoevsky, Fyodor</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Фёдор Миха́йлович Достое́вский</meta>
+		<meta property="alternate-script" refines="#author">Фёдор Миха́йлович Достое́вский</meta>
 		<meta property="schema:alternateName" refines="#author">Fyodor Mikhailovich Dostoevsky</meta>
 		<link href="https://en.wikipedia.org/wiki/Fyodor_Dostoevsky" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79029930.html" refines="#author" rel="schema:sameAs"/>
